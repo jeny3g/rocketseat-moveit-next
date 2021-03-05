@@ -31,7 +31,7 @@ const SideBar: React.FC = () => {
                 </Link>
             </main>
             <footer>
-                <a href="https://github.com/liverday/move.it" target="_blank">
+                <a href="https://github.com/SenhorBiscoito/moveit" target="_blank">
                     <AiFillGithub />
                 </a>
             </footer>

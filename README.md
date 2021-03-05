@@ -34,7 +34,7 @@ Primeiro você precisa instalar o [Git](https://git-scm.com/book/en/v2/Getting-S
 
 ```bash
 # Realize o clone do repositório
-git clone https://github.com/liverday/move.it
+git clone https://github.com/SenhorBiscoito/moveit
 
 # Mude o diretório atual para o repositório clonado
 cd move.it
