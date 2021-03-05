@@ -1,12 +1,12 @@
 # <h1 align="center"> ![Logo](./.github/logo-readme.svg) </h1>
 
 <p align="center">
-    <img src="https://img.shields.io/github/repo-size/liverday/move.it">
-    <img src="https://img.shields.io/github/license/liverday/move.it">
-    <img src="https://img.shields.io/github/languages/count/liverday/move.it">
-    <img src="https://img.shields.io/github/languages/top/liverday/move.it">
-    <img src="https://img.shields.io/github/contributors/liverday/move.it">
-    <img src="https://img.shields.io/github/last-commit/liverday/move.it">
+    <img src="https://img.shields.io/github/repo-size/SenhorBiscoito/moveit">
+    <img src="https://img.shields.io/github/license/SenhorBiscoito/moveit">
+    <img src="https://img.shields.io/github/languages/count/SenhorBiscoito/moveit">
+    <img src="https://img.shields.io/github/languages/top/SenhorBiscoito/moveit">
+    <img src="https://img.shields.io/github/contributors/SenhorBiscoito/moveit">
+    <img src="https://img.shields.io/github/last-commit/SenhorBiscoito/moveit">
 </p>
 
 <span>move.it</span> é uma aplicação para incentivar o desenvolvedor a não esquecer de se exercitar. Implementa o método pomodoro que depois de um ciclo de 25 minutos de foco, é gerado um pequeno desafio para te fazer se **movimentar**. Isso tudo com uma plataforma [gamificada](https://www.techtudo.com.br/noticias/noticia/2016/07/o-que-e-gamificacao-conheca-ciencia-que-traz-os-jogos-para-o-cotidiano.html)!
